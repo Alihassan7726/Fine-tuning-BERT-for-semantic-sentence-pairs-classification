@@ -7,6 +7,6 @@ The above project is to identify weather 2 sequences are semantically equivalent
 
 For indepth explanation see the original paper : https://arxiv.org/pdf/1810.04805.pdf
 
-Checkout my blogpost for practical implementation of state-of-art BERT in tensorflow : 
+Checkout my blogpost for practical implementation of state-of-art BERT in tensorflow : https://ali-hassan.medium.com/bd4561af5249?source=friends_link&sk=3ea0abc53fbf1d222d3f725223455654
 
 ![iamge](https://www.revuze.it/wp-content/uploads/2020/06/3-reasons-why-bert-is-game-changer-in-NLP-1024x496.png)
