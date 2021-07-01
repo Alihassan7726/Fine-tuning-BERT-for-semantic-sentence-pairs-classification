@@ -7,4 +7,4 @@ For indepth explanation see the original paper : https://arxiv.org/pdf/1810.0480
 
 Checkout my blogpost for practical implementation of state-of-art BERT in tensorflow : 
 
-![iamge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxAPdbGHmj8niITnQpU6KIOsd40B5gm5yb8KiZxd-mrEuQVWytPBpuwgET6d0cKEPm8Q&usqp=CAU)
+![iamge](https://www.revuze.it/wp-content/uploads/2020/06/3-reasons-why-bert-is-game-changer-in-NLP-1024x496.png)
